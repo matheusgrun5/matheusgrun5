@@ -3,7 +3,7 @@
 Estudante de Gestão em TI em transição para a área de tecnologia, com foco em
 infraestrutura, redes e boas práticas como ITIL.
 
-Acredito que a melhor forma de aprender é colocando a mão na massa — e é
+Acredito que a melhor forma de aprender é colocando a mão na massa, e é
 exatamente isso que estou fazendo, um projeto de cada vez.
 
 ## Sobre mim
