@@ -1,16 +1,36 @@
-## Hi there 👋
+# Olá, eu sou o Matheus 👋
 
-<!--
-**matheusgrun5/matheusgrun5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Gestão em TI em transição para a área de tecnologia, com foco em
+infraestrutura, redes e boas práticas como ITIL.
 
-Here are some ideas to get you started:
+Acredito que a melhor forma de aprender é colocando a mão na massa — e é
+exatamente isso que estou fazendo, um projeto de cada vez.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+- 🎓 Estudante de Gestão em TI
+- 📚 Estudando ITIL, infraestrutura e desenvolvimento web
+- 🌱 Em constante evolução e aprendizado
+- 📍 Brasil
+
+## Projetos
+
+### Página de Login — Portfolio Gestão em TI
+Primeiro projeto de desenvolvimento web — página de login com validação,
+segurança e acessibilidade.
+
+[Acessar projeto](https://matheusgrun5.github.io/portfolio-login/) | [Ver código](https://github.com/matheusgrun5/portfolio-login)
+
+### Dashboard de Monitoramento de Rede
+Painel de monitoramento de infraestrutura com gráficos em tempo real,
+alertas automáticos, filtros, busca e histórico de incidentes.
+
+[Acessar projeto](https://matheusgrun5.github.io/dashboard-rede/) | [Ver código](https://github.com/matheusgrun5/dashboard-rede)
+
+## Tecnologias que estou aprendendo
+
+HTML5 • CSS3 • JavaScript • Git • GitHub • ITIL
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/matheus-rafael-grun) | [GitHub](https://github.com/matheusgrun5)
